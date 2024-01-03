@@ -1,0 +1,8 @@
+class Shape {
+            
+            func @A(a, b: int) : void {
+                new Shape().x();
+                return;
+            }
+
+            }

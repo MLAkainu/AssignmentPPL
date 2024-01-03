@@ -1,0 +1,11 @@
+class Shape {
+            func @methodA() : int {
+                return self.@A;
+            }
+        }
+        class Program {
+            func main() : void {
+                var a: int = Shape.@methodA();
+                io.writeln(a);
+            }
+        }

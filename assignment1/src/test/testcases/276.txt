@@ -1,0 +1,8 @@
+class Program {
+            func main() : void {
+                for i := true; i < 10; i := i + 1 {
+                    a[i] := i;
+                    io.@writeInt(a[i]);
+                }
+            }
+        }

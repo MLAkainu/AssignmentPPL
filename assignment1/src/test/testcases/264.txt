@@ -1,0 +1,5 @@
+class Program {
+            func main() : void {
+                a.@b.c(e: int).f = a.@b.c() - a.b().c;
+            }
+        }

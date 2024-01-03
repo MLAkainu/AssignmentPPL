@@ -1,0 +1,7 @@
+class Shape {
+            var num1: int = 5;
+            const @num2: boolean = true;
+            func main() : void {
+                var num3 : [2]int = ["abc", 2];
+            }
+            }

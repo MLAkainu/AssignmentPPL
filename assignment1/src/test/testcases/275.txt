@@ -1,0 +1,7 @@
+class Program {
+            func main() : void {
+                for self.i := n-100; self.i < n+100; self.i := self.i + 1 {
+                    io.@writeInt(self.i);
+                }
+            }
+        }

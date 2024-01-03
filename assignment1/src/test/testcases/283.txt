@@ -1,0 +1,7 @@
+class Program {
+            func main() : void {
+                for Program.@a[9]._val := 0; Program.@a[9]._val < 10; Program.@a[9]._val := Program.@a[9]._val + 1 {
+                    io.@writeInt(Program.@a[9]._val);
+                }
+            }
+        }

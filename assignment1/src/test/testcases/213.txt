@@ -1,0 +1,1 @@
+class real {var a: [2]real;}

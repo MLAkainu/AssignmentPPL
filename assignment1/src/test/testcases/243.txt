@@ -1,0 +1,7 @@
+class Shape {
+            
+            func main(a, b: int) : void {
+                a := Shape.@height ;
+                b := Shape.@width(a,b);
+            }
+            }

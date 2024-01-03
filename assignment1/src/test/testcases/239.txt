@@ -1,0 +1,8 @@
+class Shape {
+            
+            func main() : void {
+                io.@readStr();
+                io.@readInt();
+            }
+
+            }

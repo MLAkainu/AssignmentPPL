@@ -1,0 +1,13 @@
+class Program {
+            func main() : void {
+                var a: int = 1;
+                var b: float = 2.0;
+                if a < b {
+                    io.@writeStr("a is smaller than b");
+                }
+                else  {
+                    io.@writeStr("a is equal to b");
+                }
+                
+            }
+        }

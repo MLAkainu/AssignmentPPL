@@ -1,0 +1,4 @@
+class A {
+                    func constructor()
+         }
+                    class B <- A { }

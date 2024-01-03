@@ -1,0 +1,10 @@
+class Shape {
+            var num1: int = 5;
+            const @num2: boolean = true;
+            func main() : void {
+                var res : int = 5;
+                var @abc : float = 5.0;
+                io.write(res);
+                return;
+            }
+            }

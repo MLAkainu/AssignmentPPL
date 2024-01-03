@@ -1,0 +1,19 @@
+class Program {
+            func main() : void {
+                for i := 0; i < 10; i := i + 1 {
+                    io.@writeInt(i);
+                    if i % 2 == 0 {
+                        break;
+                    }
+                    else {
+                        continue;
+                    }
+                }
+                for i := 5; i > 2; i := i - 1 {
+                    io.@writeInt(arr[i]);
+                    if x % 5 == 0 {
+                        return self.@a;
+                    }
+                }
+            }
+        }

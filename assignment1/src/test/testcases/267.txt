@@ -1,0 +1,15 @@
+class _Program {
+            func @getMethodA() : int {
+                return self.@A;
+            }
+            func @setMethodA(_a: [2]int) : void {
+               sefl.@A := _a;
+            }
+        }
+        class Program {
+            func main() : void {
+                _Program.@setMethodA(arr);
+                io.writeln(_Program.@getMethodA());
+            }
+            
+        }

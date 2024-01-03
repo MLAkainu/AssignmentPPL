@@ -1,0 +1,12 @@
+class _program {
+            var @a: int = 1000;
+            func @methodA() : int {
+                return self.@a;
+            }
+        }
+        class Program {
+            func main() : void {
+                var b: int;
+                b := _program.@methodA();
+            }
+        }

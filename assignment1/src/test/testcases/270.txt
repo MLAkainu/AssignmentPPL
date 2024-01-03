@@ -1,0 +1,6 @@
+class Program {
+            var a, b: int;
+            if {i := 1;} j := 2 {
+             // do something
+            }
+        }

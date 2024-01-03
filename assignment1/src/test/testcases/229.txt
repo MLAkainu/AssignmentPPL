@@ -1,0 +1,6 @@
+class Shape {
+            func main () : void {
+                self.length();
+                return;
+            }
+            }

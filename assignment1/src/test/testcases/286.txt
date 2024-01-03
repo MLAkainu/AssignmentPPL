@@ -1,0 +1,8 @@
+class Program {
+            func main() : void {
+                var c, h: int = 50, 30;
+                var d: int = Math.hh(io.@readStr("Enter D: "));
+                var Q: int = Math.hh(2 * c * d / h);
+                io.@writeStr(Math.round(Math.sqrt(Q)));
+            }
+        }

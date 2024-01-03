@@ -1,0 +1,13 @@
+class Shape {
+            
+            func main() : void {
+                Shape.width := self.width;
+                Shape.@height := self.height;
+                Shape.@length := self.length;
+
+                Shape.volume := Shape.width * Shape.@height * Shape.@length;
+
+                var d : int = Shape.volume;
+            }
+
+            }

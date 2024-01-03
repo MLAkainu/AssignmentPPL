@@ -1,0 +1,7 @@
+class Program {
+            func main() : void {
+                a := g != ((b * c / d % e) > f);
+                b := ((abc ^ def) ^ ghi).upper();
+                c := 1 || true && false;
+            }
+        }

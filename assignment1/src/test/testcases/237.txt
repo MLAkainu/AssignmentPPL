@@ -1,0 +1,16 @@
+class Shape {
+            func getName() : string {
+                return self.name;
+            }
+
+            func main() : void {
+                Shape.width := 5;
+                x := Shape.@height;
+                Shape.@height := 6;
+                Shape.@width := 6;
+                name := "abc";
+                (a+b).@name := "abc";
+
+            }
+
+            }

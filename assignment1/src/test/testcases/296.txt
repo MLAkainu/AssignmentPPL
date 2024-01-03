@@ -1,0 +1,19 @@
+class Program {
+        }
+        class Shape {
+            var @numOfShape: int = 0;
+            const immutableAttribute: int = 1;
+            var length, width: int; 
+            func @getNumOfShape() : int {
+                return @numOfShape;
+            }
+            func @setNumOfShape(_numOfShape: int) : void {
+                @numOfShape := _numOfShape;
+            }
+        }
+        class Shape <- Rectangle {
+            func @getArea() : int {
+                return self.length * self.width;
+            }
+        }
+        

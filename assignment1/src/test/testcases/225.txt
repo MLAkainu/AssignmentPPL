@@ -1,0 +1,8 @@
+class Shape {
+            var ab: string = "abc";
+            const @num2: string = "";
+            func main() : void {
+                var abc : string = "abcdf";
+
+            }
+            }

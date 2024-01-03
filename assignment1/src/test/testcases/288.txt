@@ -1,0 +1,7 @@
+class Program {
+        }
+        class Shape {
+            func main() : void {
+               a[3+x.foo(2)] := a[b[2]] + 3;
+            }
+        }

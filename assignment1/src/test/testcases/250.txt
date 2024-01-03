@@ -1,0 +1,11 @@
+class Program {
+            var @a: string = "Hello World";
+            func main() : void {
+                var b: int = 100000000;
+                bcd := Program.@abc().dex()+ 1;
+
+                
+                return (b - self.@a + self.what - Program.@abc(Program.@ab).dex());
+            }
+        }
+        

@@ -1,0 +1,5 @@
+class Program {
+            func @main():int {
+                Number[9].name := "Nine";
+            }
+        }

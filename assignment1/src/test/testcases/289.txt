@@ -1,0 +1,7 @@
+class Program {
+        }
+        class Shape {
+            func main() : void {
+               x.b[2] := x.m()[3];
+            }
+        }

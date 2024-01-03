@@ -1,0 +1,15 @@
+class Example {
+            var @a: int = 0;
+            const b: int = 1;
+            func @getA() : int {
+                return new Example().a;
+                /* Return @a; */
+            }
+        }
+        class Program {
+            func main() : void {
+                var res1: int = Example.@getA() + Example.b;
+                var res2: int = Example.b + Example.@getA();
+                io.println(res1 + res2);
+            }
+        }

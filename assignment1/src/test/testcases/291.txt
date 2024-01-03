@@ -1,0 +1,11 @@
+class Program {
+        }
+        class Shape {
+            func main() : void {
+            var r, s :int; 
+            r := 2;
+            var a, b: [5]int;
+            a := b;
+            a[0] := s;
+            }
+        }

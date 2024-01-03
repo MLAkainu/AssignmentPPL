@@ -1,0 +1,6 @@
+class Shape {
+            var @num: [2]int = [56+96, 2];
+            func main() : void {
+                return;
+            }
+        }

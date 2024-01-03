@@ -1,0 +1,7 @@
+class Shape {
+            var num1, num2: int = 5, 6;
+            func foo(a,b: int, c: float): int {
+                var x, y: int = b, c;
+                return a + b;
+            }
+            }

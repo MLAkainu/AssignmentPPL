@@ -1,0 +1,11 @@
+class Program {
+        }
+        class Shape {
+            var @numOfShape: int = 0;
+            const immutableAttribute: int = 1;
+            var length, width: int; 
+            func @getNumOfShape() : int {
+                return @numOfShape;
+            }
+            
+        }

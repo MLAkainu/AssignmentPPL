@@ -1,0 +1,14 @@
+class Shape {
+            func getName() : string {
+                return self.name;
+            }
+
+            func main() : void {
+                if j > 0 {j := j + 1;}
+                else {j := j - 1;}
+
+                getName();
+
+            }
+
+            }

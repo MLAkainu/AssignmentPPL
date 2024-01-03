@@ -1,0 +1,27 @@
+class Program {
+            func main() : void {
+            
+                for self.fun := 0; self.fun < 10; self.fun := self.fun + 1 {
+                    io.@writeInt(self.fun);
+                }
+                for a._var := 0; a._var < 10; a._var := a._var + 1 {
+                    io.@writeInt(a._var);
+                }
+                for self.a._var := 0; self.a._var < 10; self.a._var := self.a._var + 1 {
+                    io.@writeInt(self.a._var);
+                }
+                for sefl.fun().b := 0; sefl.fun().b < 10; sefl.fun().b := sefl.fun().b + 1 {    
+                    io.@writeInt(sefl.fun().b);
+                }
+                for a.@b := 0; a.@b < 10; a.@b := a.@b + 1 {
+                    io.@writeInt(a.@b);
+                }
+                for self.@a.b.c := 0; self.@a.b.c < 10; self.@a.b.c := self.@a.b.c + 1 {
+                    io.@writeInt(self.@a.b.c);
+                }
+                for self.@a().b.c := 0; self.@a().b.c < 10; self.@a().b.c := self.@a().b.c + 1 {
+                    io.@writeInt(self.@a().b.c);
+                }
+
+            }
+        }

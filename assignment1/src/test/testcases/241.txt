@@ -1,0 +1,5 @@
+class Shape {
+            
+            func main(@a, @b: int) : void {
+                return;
+            }

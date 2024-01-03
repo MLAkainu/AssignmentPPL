@@ -1,0 +1,1 @@
+class A {var a: [9]void;}

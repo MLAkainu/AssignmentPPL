@@ -1,0 +1,1 @@
+class const {var a, b, c: int;}

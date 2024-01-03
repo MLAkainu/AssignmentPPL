@@ -1,0 +1,7 @@
+class Shape {
+            
+            func main() : void {
+                a := (b+c).name;
+            }
+
+            }

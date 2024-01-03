@@ -1,0 +1,5 @@
+class Program {
+            func main() : void {
+                a := _1a2b3c.@d();
+            }
+        }

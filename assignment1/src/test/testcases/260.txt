@@ -1,0 +1,5 @@
+class Program {
+            func main() : void {
+                a := b.(new C()).d();
+            }
+        }

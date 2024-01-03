@@ -1,0 +1,19 @@
+class Program {
+            func main() : void {
+                if a > b > c {
+                    io.@writeStr("1");
+                }
+                if a > b < c {
+                    io.@writeStr("2");
+                }
+                if a < b > c {
+                    io.@writeStr("3");
+                }
+                if a < b < c {
+                    io.@writeStr("4");
+                }
+                else {
+                    io.@writeStr("5");
+                }
+            }
+        }

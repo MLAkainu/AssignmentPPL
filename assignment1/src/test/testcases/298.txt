@@ -1,0 +1,1 @@
+class Program{var  a, b, c, d: int = 3, 4, 6;}

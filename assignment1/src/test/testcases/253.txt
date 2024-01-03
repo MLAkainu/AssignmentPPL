@@ -1,0 +1,7 @@
+class Program {
+            func main() : void {
+                d := -1 + -2 + -30;
+                g := str1 ^ str2.str3;
+                c := !true + -2;
+            }
+        }

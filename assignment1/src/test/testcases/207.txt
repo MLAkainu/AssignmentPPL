@@ -1,0 +1,1 @@
+class _A1 {var a, b, c: int;}

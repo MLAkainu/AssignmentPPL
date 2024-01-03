@@ -1,0 +1,18 @@
+class IOString {
+            func __init__() : void {
+                self.s := "";
+            }
+            func getString() : void {
+                self.s := io.@readStr();
+            }
+            func printString() : void {
+                io.@writeStr(s.upper());
+            }
+        }
+        class Program {
+            func main() : void {
+                var strObj: string = new IOString();
+                strObj.getString();
+                strObj.printString();
+            }
+        }

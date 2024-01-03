@@ -1,0 +1,8 @@
+class Shape {
+             func constructor(length, width: int, name: string) {
+                sefl.length := length;
+                self.width := width;
+                self.name := name;
+                return;
+                }
+            }
