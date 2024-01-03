@@ -149,10 +149,8 @@ exp_list: expr COMMA exp_list | expr;
 
 index_operator:  LSB expr RSB ; 
 
-
 attribute_name: VAR | CONST;
 identifier_name: ID | STATIC_ID;
-
 
 // 3.4 KEYWORDS
 BREAK: 'break';
