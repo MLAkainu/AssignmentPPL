@@ -19,6 +19,8 @@ class ASTGeneration(CSlangVisitor):
         memList = self.visit(ctx.body_class_list())
         parentname = self.visit(ctx.name_superclass())
         return ClassDecl(name, memList, parentname)
+    
+
     #name_class: ID;
     def visitName_class(self,ctx:CSlangParser.Name_classContext):
         return Id(ctx.ID().getText())
