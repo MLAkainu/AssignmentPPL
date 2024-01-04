@@ -1,0 +1,8 @@
+class Sub {
+            func main() : void {
+                a := -1 + -2 + -3;
+                b := str1 ^ st4.st6;
+                c := !true;
+                d := _class1.getString() ^ _.getString(); 
+            }
+        }

@@ -1,0 +1,5 @@
+class Program {
+            func main() : void {
+                if  {i:=0;} j > i {io.@write(j);}
+            }
+        }

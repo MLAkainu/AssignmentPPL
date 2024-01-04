@@ -1,0 +1,3 @@
+class _HelloWorld{
+            func constructor(a:int) {}
+        }

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),[],StringType,Block([AssignStmt(Id(a),BinaryOp(+,ArrayCell(Id(a),FieldAccess(Id(a),Id(b))),ArrayCell(Id(c),FieldAccess(Id(a),Id(@b))))),AssignStmt(Id(d),BinaryOp(^,BinaryOp(||,BinaryOp(&&,BinaryOp(&&,BooleanLit(True),BooleanLit(False)),BooleanLit(True)),BooleanLit(False)),Id(e)))]))])])

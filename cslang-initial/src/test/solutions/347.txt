@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[AttributeDecl(ConstDecl(Id(@a),IntType,IntLit(0))),AttributeDecl(ConstDecl(Id(b),FloatType,FloatLit(1.0))),MethodDecl(Id(@getA),[],IntType,Block([Return(FieldAccess(Id(@a)))]))]),ClassDecl(Id(Rectangle),[AttributeDecl(ConstDecl(Id(@a),IntType,IntLit(0))),AttributeDecl(ConstDecl(Id(b),FloatType,FloatLit(1.0)))])])

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(main),[MethodDecl(Id(foo),[],VoidType,Block([If(BinaryOp(>,Id(j),Id(i)),Block([AssignStmt(Id(j),BinaryOp(+,Id(j),IntLit(1)))]),Block([AssignStmt(Id(j),BinaryOp(-,Id(j),IntLit(1)))]))]))])])

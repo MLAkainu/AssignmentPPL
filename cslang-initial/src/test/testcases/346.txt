@@ -1,0 +1,8 @@
+class Shape{
+            var PI: ABC;
+            const PI: ABC;
+            const @b, c, d: float = 1.0, 2.0, 3.0;
+            func main():void{
+                return new x().y();
+            }
+        }

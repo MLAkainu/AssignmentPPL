@@ -1,0 +1,7 @@
+class Program {
+            func main() : void {
+                for i := 0; i < 10; i := i + 1 {
+                    io.@write(i);
+                }
+        }
+        }

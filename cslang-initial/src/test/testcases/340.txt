@@ -1,0 +1,7 @@
+class y{
+            func main():void{
+                var a: int = true * false;
+                var b: float = 1e2 * 2e-3;
+                var c: [3]int = Program.getArray().getValue().abc;
+            }
+        }

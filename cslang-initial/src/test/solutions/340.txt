@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(y),[MethodDecl(Id(main),[],VoidType,Block([VarDecl(Id(a),IntType,BinaryOp(*,BooleanLit(True),BooleanLit(False))),VarDecl(Id(b),FloatType,BinaryOp(*,FloatLit(100.0),FloatLit(0.002))),VarDecl(Id(c),ArrayType(3,IntType),FieldAccess(CallExpr(CallExpr(Id(Program),Id(getArray),[]),Id(getValue),[]),Id(abc)))]))])])

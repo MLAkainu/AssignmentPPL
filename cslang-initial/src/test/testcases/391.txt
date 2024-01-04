@@ -1,0 +1,7 @@
+class Shape {
+            func @getNumOfShape() : int {
+                x :=  abc ^ bvc >= 1 * 2 ;
+                y := x * 2 + 5;
+                z := y / 3;
+            }
+        }

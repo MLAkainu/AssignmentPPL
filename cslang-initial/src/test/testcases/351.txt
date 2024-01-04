@@ -1,0 +1,6 @@
+class Program {
+            func main() : string {
+                a := a[a.b] + c[a.@b];
+                d := true && false && true || false ^ e;
+            }
+        }

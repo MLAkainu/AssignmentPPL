@@ -1,0 +1,7 @@
+class Program{
+            func main() : void {
+                self.aPI := 3.14;
+                value := x.foo(5,6);
+                l[3] := value * 2;
+            }
+        }

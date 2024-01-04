@@ -1,0 +1,6 @@
+class Shape {
+            func @getNumOfShape() : int {
+                x :=  -y;
+                y := -b - c;
+            }
+        }

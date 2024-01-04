@@ -1,0 +1,7 @@
+class Program {
+            func foo() : void  {
+                a := _new.@abc;
+                b := a * 1.0 / 2 % 3;
+                c := ("true" ^ a)[1];
+            }
+        }

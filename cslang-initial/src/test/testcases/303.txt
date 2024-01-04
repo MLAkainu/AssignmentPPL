@@ -1,0 +1,3 @@
+class main {
+            var x, y, t:int = 1, 2, 3;
+        }

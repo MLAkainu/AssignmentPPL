@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(_HelloWorld),[MethodDecl(Id(main),[],VoidType,Block([VarDecl(Id(a),ArrayType(5,IntType))]))])])

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[MethodDecl(Id(@getNumOfShape),[],IntType,Block([AssignStmt(Id(x),BinaryOp(-,BinaryOp(+,ArrayCell(Id(a),IntLit(1)),ArrayCell(Id(b),IntLit(2))),BinaryOp(*,ArrayCell(Id(c),IntLit(3)),ArrayCell(Id(d),IntLit(4)))))]))])])

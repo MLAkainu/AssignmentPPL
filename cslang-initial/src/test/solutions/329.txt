@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[AttributeDecl(VarDecl(Id(abc),StringType,StringLit(Hello World))),AttributeDecl(ConstDecl(Id(PI),ClassType(Id(ABC)),BooleanLit(True))),MethodDecl(Id(main),[],VoidType,Block([VarDecl(Id(chj),StringType,StringLit(Hello World)),ConstDecl(Id(PI),ClassType(Id(ABC)),BooleanLit(False))]))])])

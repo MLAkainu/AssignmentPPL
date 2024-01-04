@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),[],VoidType,Block([AssignStmt(FieldAccess(Id(_kmn),Id(@_456)),BinaryOp(+,IntLit(1),IntLit(2))),AssignStmt(ArrayCell(CallExpr(FieldAccess(Id(a),Id(@b)),Id(c),[]),Id(_)),NullLiteral()),Return()]))])])

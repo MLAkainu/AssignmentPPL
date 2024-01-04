@@ -1,0 +1,8 @@
+class Program {
+            func main() : void {
+                if  j > i {io.@write(j);}
+                if i > j {io.@write(i);}
+                else {io.@write(i+j);}
+                
+            }
+        }

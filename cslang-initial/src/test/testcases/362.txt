@@ -1,0 +1,8 @@
+class Program {
+            func main() : void {
+                a := _1a2b3c.@d();
+                A[1][2][true] := new x() + 2 * new Y();
+                io.print("a " + i + ": " + b.d[i - 1]);
+                io.print("a " + i + ": " + c.@e[i - 1]);
+            }
+        }

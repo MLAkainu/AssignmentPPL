@@ -1,0 +1,6 @@
+class Shape{
+            const PI: float = 3.14;
+            func area():Shape{
+                self.area(a,b,c*PI);
+            }
+        }

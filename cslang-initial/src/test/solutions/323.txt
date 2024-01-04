@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[AttributeDecl(ConstDecl(Id(PI),FloatType,FloatLit(3.14))),MethodDecl(Id(area),[],ClassType(Id(Shape)),Block([Call(Self(),Id(area),[Id(a),Id(b),BinaryOp(*,Id(c),Id(PI))])]))])])

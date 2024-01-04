@@ -1,0 +1,8 @@
+class Program {
+            func main() : void {
+                for a.bc := 1; a.bc < 11; a.bc := a.bc + 1  {
+                    io.@write(a.bc);
+                    if a.bc == 5 {break;}
+                }
+            }
+        }

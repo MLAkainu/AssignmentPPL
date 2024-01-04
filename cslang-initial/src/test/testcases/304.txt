@@ -1,0 +1,2 @@
+class object<-main{ const x, y, z: int = 1, 2, 3;
+        var a, b: float;}

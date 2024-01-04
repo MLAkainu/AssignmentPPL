@@ -1,0 +1,7 @@
+class Program {
+            func main() :void{
+                _kmn.@_456 := 1 + 2;
+                a.@b.c()[_] := null;
+                return;
+            }
+        }

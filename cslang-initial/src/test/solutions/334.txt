@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Rectangle),[MethodDecl(Id(constructor),[],VoidType,Block([AssignStmt(FieldAccess(Self(),Id(width)),IntLit(1)),AssignStmt(FieldAccess(Self(),Id(height)),IntLit(4)),Return(BinaryOp(*,FieldAccess(Self(),Id(width)),FieldAccess(Self(),Id(height))))]))])])

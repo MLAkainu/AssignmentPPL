@@ -1,0 +1,8 @@
+class Program {
+            var @c: _program;
+            func main() : void {
+                var b: int;
+                b := _program.@methodA();
+                io.@printInt(b);
+            }
+        }

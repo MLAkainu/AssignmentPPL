@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[MethodDecl(Id(constructor),[],VoidType,Block([Return()]))])])

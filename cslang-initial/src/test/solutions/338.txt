@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Arr),[AttributeDecl(ConstDecl(Id(a),ArrayType(3,IntType),[IntLit(1),BooleanLit(True),StringLit(3)])),MethodDecl(Id(main),[],VoidType,Block([VarDecl(Id(name),ArrayType(3,StringType),[IntLit(1),FloatLit(9.0),StringLit(Hello World)])]))])])

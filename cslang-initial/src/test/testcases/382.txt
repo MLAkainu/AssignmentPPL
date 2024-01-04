@@ -1,0 +1,7 @@
+class Program {
+            func main() : void {
+                for Program.@b.mn.c := 1; Program.@b.mn.c < 11; Program.@b.mn.c := Program.@b.mn.c + 1  {
+                    io.@write(Program.@b.mn.c);
+                }
+            }
+        }

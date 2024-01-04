@@ -1,0 +1,6 @@
+class Program {
+            func main():void {
+                Shape.width := 10;
+                a := Shape.@length;
+            }
+        }

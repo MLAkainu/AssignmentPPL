@@ -1,0 +1,8 @@
+class Program {
+            const @a: string = "Hello World";
+            func main(): void {
+                const b: int = 100000000;
+                b.c.d := Program.@a() + 1;
+                return (b - Program.@a + Self.@what - Program.@a());
+            }
+        }

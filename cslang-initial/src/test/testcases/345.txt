@@ -1,0 +1,12 @@
+class Program {
+            func foo() : int {
+                Program.x.y.z();
+                (x.y[1][2]).foo();
+                Shape.@area.calculate();
+                (Shape.@w.s[1]).eval();
+            }
+            func main() : void {
+                Shape.@width := 10;
+                a := Shape.@area;
+            }
+        }

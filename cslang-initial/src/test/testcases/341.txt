@@ -1,0 +1,8 @@
+class y{
+            func dbs():void{
+                a := 1;
+                c := true;
+                b := !c;
+                const a: float = -1e2;
+            }
+        }

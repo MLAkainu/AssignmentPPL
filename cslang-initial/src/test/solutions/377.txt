@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),[],VoidType,Block([Call(Id(Shape),Id(@getNumOfShape),[]),Call(Id(Shape),Id(@getNumOfShape),[])]))])])

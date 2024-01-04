@@ -1,0 +1,5 @@
+class Rectangle{
+            var w: [3]int = [1,2,3];
+            const h: int = 4;
+            var area: int = new Shape();
+        }

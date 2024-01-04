@@ -1,0 +1,8 @@
+class Shape{
+            var abc: string = "Hello World";
+            const PI: ABC = true;
+            func main():void{
+                var chj : string = "Hello World";
+                const PI: ABC = false;
+            }    
+        }

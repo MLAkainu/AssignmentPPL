@@ -1,0 +1,6 @@
+class Program {
+            const a,x,y : int = self.foo(1, abc ^ 2), 1, 2;
+            const b : float = ABC.@main(1,2,3);
+            const c : Shape = _abc.@foo().bar;
+            
+        }

@@ -1,0 +1,5 @@
+class _HelloWorld{
+            func main():void{
+                var a: [5]int;
+            }
+        }

@@ -1,0 +1,6 @@
+class Program {
+            func main() : void {
+                a.@b.c.d := a.@b.c() - a.b().c;
+                a.@b().c := a.b.c.d().val;
+            }
+        }

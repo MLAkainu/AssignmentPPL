@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[AttributeDecl(VarDecl(Id(@a),StringType,CallExpr(FieldAccess(Id(a),Id(@b)),Id(c),[]))),AttributeDecl(VarDecl(Id(@b),ClassType(Id(Shape)),FieldAccess(Id(a),Id(@b))))])])

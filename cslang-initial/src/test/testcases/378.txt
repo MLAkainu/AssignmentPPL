@@ -1,0 +1,7 @@
+class Program {
+            func main() : void {
+                for self.a := 1; self.a < 11; self.a := self.a + 1  {
+                    io.@write(self.a);
+                }
+            }
+        }

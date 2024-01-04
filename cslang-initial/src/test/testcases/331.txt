@@ -1,0 +1,8 @@
+class Program {
+        func main():void{
+                const k : Rectangle = null;
+                var a : int = abc.Instance().vnm;
+                var b : float = abc.@Saticfunc().vnm;
+                const mn : string = __.@main();
+            }
+        }

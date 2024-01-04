@@ -1,0 +1,7 @@
+class Program {
+            func main():void{
+                a := (1+2).b;
+                d := (true * (1.2 - 5.6 \ 5) + 1e2) * 3e-4;
+                f := (false / 5).f;
+            }
+        }

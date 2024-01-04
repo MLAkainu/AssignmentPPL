@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Rectangle),[AttributeDecl(VarDecl(Id(@wight),IntType)),AttributeDecl(VarDecl(Id(h),IntType)),AttributeDecl(VarDecl(Id(c),IntType)),AttributeDecl(ConstDecl(Id(h),IntType,IntLit(4))),AttributeDecl(VarDecl(Id(@area),IntType,NewExpr(Id(Shape),[Id(a),Id(b),Id(c)])))])])

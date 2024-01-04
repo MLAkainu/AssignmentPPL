@@ -1,0 +1,12 @@
+class Shape{
+            const @a: int = 0;
+            const b: float = 1.0;
+            func @getA():int{
+                return @a;
+            }
+            }
+        class Rectangle{
+            const @a: int = 0;
+            const b: float = 1.0;
+    
+        }

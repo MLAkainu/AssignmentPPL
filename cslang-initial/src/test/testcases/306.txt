@@ -1,0 +1,6 @@
+class main{
+            func foo  (a: int, b: float):void {}
+
+            func @main():void{
+                io.printInt(4);
+        }}

@@ -1,0 +1,17 @@
+class Shape {
+            var @numOfShape: int = 0;
+            const immutableAttribute: int = 0;
+            var length, width: int;
+            func constructor(_length, _width: int){
+                self.length := _length;
+                self.width := _width;
+            }
+            func @getNumOfShape() : int {
+                return @numOfShape;
+            }
+        }
+        class Shape <- Retangle {
+            func getArea() : int {
+                return self.length * self.width;
+            }
+        }

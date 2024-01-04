@@ -1,0 +1,6 @@
+class Program {
+            func main() : void {
+                a[1] := 1;
+                (a + b).foo := 9;
+            }
+        }

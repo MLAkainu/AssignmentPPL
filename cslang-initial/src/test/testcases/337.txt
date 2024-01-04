@@ -1,0 +1,7 @@
+class Main{
+            var abc : [9]Shape;
+            const op : [3]float = [1.0, 2.0, 3.0];
+            func main():void{
+                var name : string = "Hello World";
+            }
+        }

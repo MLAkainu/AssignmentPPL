@@ -1,0 +1,10 @@
+class Rectangle{
+            func constructor(width:int, height:int) {
+                var area : int;
+                {
+                    area := width * height;
+                    return area;
+                }
+                return area;
+            }
+            }

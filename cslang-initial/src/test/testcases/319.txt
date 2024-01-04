@@ -1,0 +1,6 @@
+class _HelloWorld{
+            var a: int;
+            const b, c, d: float = 1.0, 2.0, 3.0;
+            func constructor(a:int) {}
+            func @abc (a,b,c:float, d:int):float{}
+        }

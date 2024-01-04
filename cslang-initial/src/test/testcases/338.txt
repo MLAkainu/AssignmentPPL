@@ -1,0 +1,6 @@
+class Arr{
+            const a : [3]int = [1,true,"3"];
+            func main():void{
+                var name : [3]string = [1,9., "Hello World"];
+            }
+        }

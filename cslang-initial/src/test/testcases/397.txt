@@ -1,0 +1,5 @@
+class Shape {
+            func @getNumOfShape() : int {
+                x :=  a[1];
+            }
+        }

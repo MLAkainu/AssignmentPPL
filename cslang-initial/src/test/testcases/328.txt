@@ -1,0 +1,11 @@
+class Shape{
+            var PI: ABC;
+            const PI: ABC = true;
+            func main():void{
+                var a: int;
+                var b: float;
+                var c: bool;
+                var d: string;
+                io.@writeInt(res);
+            }
+        }

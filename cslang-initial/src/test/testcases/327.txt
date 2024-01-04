@@ -1,0 +1,4 @@
+class Shape{
+            var PI: ABC;
+            const PI: ABC;
+        }

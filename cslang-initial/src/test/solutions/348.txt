@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),[],VoidType,Block([ConstDecl(Id(res1),IntType,BinaryOp(+,CallExpr(Id(Example),Id(@getA),[]),FieldAccess(Id(Example),Id(b)))),ConstDecl(Id(res2),IntType,BinaryOp(+,FieldAccess(Id(Example),Id(b)),CallExpr(Id(Example),Id(@getA),[]))),Call(Id(io),Id(printInt),[BinaryOp(+,Id(res1),Id(res2))])]))])])

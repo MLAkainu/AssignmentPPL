@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),[],VoidType,Block([For(AssignStmt(FieldAccess(Id(a),Id(@b)),IntLit(1)),BinaryOp(<,FieldAccess(Id(a),Id(@b)),IntLit(11)),AssignStmt(FieldAccess(Id(a),Id(@b)),BinaryOp(+,FieldAccess(Id(a),Id(@b)),IntLit(1))),Block([Call(Id(io),Id(@write),[FieldAccess(Id(a),Id(@b))])])])]))])])

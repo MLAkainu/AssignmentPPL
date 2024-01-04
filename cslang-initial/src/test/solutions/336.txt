@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Rectangle),[MethodDecl(Id(constructor),[Param(Id(width),IntType),Param(Id(height),IntType)],VoidType,Block([VarDecl(Id(area),IntType),Block([AssignStmt(Id(area),BinaryOp(*,Id(width),Id(height))),Return(Id(area))]),Return(Id(area))]))])])

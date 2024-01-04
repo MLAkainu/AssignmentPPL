@@ -1,0 +1,6 @@
+class main{
+            var a: int;
+            func foo():void{
+                a:=1;
+            }
+        }

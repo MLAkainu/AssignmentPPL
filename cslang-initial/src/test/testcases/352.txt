@@ -1,0 +1,3 @@
+class XYZ {
+            var a: float = a.b().c;
+        }

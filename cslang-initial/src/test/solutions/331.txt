@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),[],VoidType,Block([ConstDecl(Id(k),ClassType(Id(Rectangle)),NullLiteral()),VarDecl(Id(a),IntType,FieldAccess(CallExpr(Id(abc),Id(Instance),[]),Id(vnm))),VarDecl(Id(b),FloatType,FieldAccess(CallExpr(Id(abc),Id(@Saticfunc),[]),Id(vnm))),ConstDecl(Id(mn),StringType,CallExpr(Id(__),Id(@main),[]))]))])])

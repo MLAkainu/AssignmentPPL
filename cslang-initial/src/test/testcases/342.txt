@@ -1,0 +1,8 @@
+class y{
+            func main():void{
+                X.shape.getArea := 1;
+                a := a.@c;
+                a := X.shape.getArea;
+
+            }
+        }

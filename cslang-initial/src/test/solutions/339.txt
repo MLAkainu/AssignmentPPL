@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(x),[AttributeDecl(ConstDecl(Id(abc),ArrayType(3,IntType),[FloatLit(100.0),FloatLit(0.002),FloatLit(0.0003)])),AttributeDecl(ConstDecl(Id(xyz),ArrayType(3,IntType),[FloatLit(100.0),FloatLit(0.002),FloatLit(0.0003)]))])])

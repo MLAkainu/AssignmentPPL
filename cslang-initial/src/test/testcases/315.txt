@@ -1,0 +1,9 @@
+class _HelloWorld{
+            func main(a:int):void{
+                var a: int;
+                //const b: float = 1.0;
+                {
+                return a-b;
+                }
+            }
+        }

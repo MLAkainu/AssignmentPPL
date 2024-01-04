@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(y),[MethodDecl(Id(dbs),[],VoidType,Block([AssignStmt(Id(a),IntLit(1)),AssignStmt(Id(c),BooleanLit(True)),AssignStmt(Id(b),UnaryOp(!,Id(c))),ConstDecl(Id(a),FloatType,UnaryOp(-,FloatLit(100.0)))]))])])

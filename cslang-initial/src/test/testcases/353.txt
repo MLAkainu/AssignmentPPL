@@ -1,0 +1,4 @@
+class Program {
+            var @a: string = a.@b.c();
+            var @b: Shape = a.@b;
+        }

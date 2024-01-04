@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(main),[AttributeDecl(VarDecl(Id(a),IntType)),MethodDecl(Id(foo),[],VoidType,Block([AssignStmt(Id(a),IntLit(1))]))])])

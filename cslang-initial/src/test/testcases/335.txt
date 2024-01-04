@@ -1,0 +1,7 @@
+class Rectangle{
+            func constructor(width:int, height:int) {
+                self.width := 1;
+                self.height := 4;
+                return self.width * self.height;
+            }
+            }

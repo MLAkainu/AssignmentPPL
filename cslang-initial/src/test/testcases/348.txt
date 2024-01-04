@@ -1,0 +1,7 @@
+class Program {
+            func main() : void {
+                const res1 : int = Example.@getA() + Example.b;
+                const res2 : int = Example.b + Example.@getA();
+                io.printInt(res1 + res2);
+            }
+        }

@@ -1,0 +1,6 @@
+class Program {
+            func main() : int {
+                if i == 5 {for i := 0; i < 10; i := i + 1 {return 1;}}
+                else {return 0;}
+            }
+        }
