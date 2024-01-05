@@ -56,6 +56,8 @@ class StaticChecker(BaseVisitor):
         Symbol("@writeStr", MType([StringType()],StringType()),False)
 
     ]
+
+    
     def __init__(self, ast):
         self.class_envi = []
         self.ast = ast
