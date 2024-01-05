@@ -1,0 +1,11 @@
+
+            class A {
+                var x : int = 4;
+                const y : int;
+            }
+            class Program {
+                func @main() : void {
+                
+                }
+            }
+        

@@ -1,0 +1,9 @@
+ 
+            class Program {
+            
+                func @main() : void {
+                    
+                    const x : int = 8.9;
+                }
+            }
+        

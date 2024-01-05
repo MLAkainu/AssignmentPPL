@@ -1,0 +1,14 @@
+
+            class A {
+                var x : int = 4;
+                const y : int = 4;
+                func foo(a, b : int) : int {
+                    const z : float = self.x + self.y;
+                }
+            }
+            class Program {
+                func @main() : void {
+                
+                }
+            }
+        

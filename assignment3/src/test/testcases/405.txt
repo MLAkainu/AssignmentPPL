@@ -1,0 +1,9 @@
+
+            class a {
+                func main() : void {}
+                var c : int;
+                var c : int;
+            }
+        
+        
+        

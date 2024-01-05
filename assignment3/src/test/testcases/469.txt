@@ -1,0 +1,9 @@
+
+            class Program {
+                var a : [3]int;
+                
+                func @main() : void {
+                    a[1] := 5.0;
+                }
+
+            }

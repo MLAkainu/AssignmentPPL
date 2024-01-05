@@ -1,0 +1,1 @@
+Type Mismatch In Declaration: ConstDecl(Id(x),ArrayType(3,IntType),[FloatLit(1.4),FloatLit(3.5),FloatLit(6.8)])

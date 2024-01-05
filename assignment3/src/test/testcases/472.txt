@@ -1,0 +1,13 @@
+ 
+            class Program {
+            
+                func @main() : void {
+                    var x : [6]int;
+                    const y : int = 1;
+                    var z : float = 1.6;
+                    var t : int;
+                    x[5] := 3;
+                    t := (y + z) % (y - 1);
+                }
+            }
+        

@@ -1,0 +1,13 @@
+
+            class A {
+                func foo(_x, _y : float) : float {
+                    return _x + _y;
+                }
+            }
+            class Program {
+                func @main() : void {
+                    var x : A;
+                    x.foo(1.8, 4.9);
+                }
+            }
+        

@@ -1,0 +1,15 @@
+
+            class B {
+                func foo() : int {
+                    return x;
+                
+                }
+            }  
+            class Program {
+                func @main() : void {
+                    var a : A;
+                    var b : int = a.foo();
+                }
+            }
+                
+            

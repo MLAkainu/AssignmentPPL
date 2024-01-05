@@ -1,0 +1,12 @@
+
+            class AB {
+                var @a : int = 1;
+                const x : float = 3.0;
+            }
+            class Program {
+                func @main() : void {
+                    AB.@a := 3;
+                    AB.@z := 9;
+                }
+            }
+        

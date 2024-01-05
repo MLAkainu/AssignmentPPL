@@ -1,0 +1,15 @@
+
+            class ABC {
+                var b : int = 3;
+                var x : int;
+            }
+            class Program {
+                func @main() : void {
+                    var b: int;
+                    var a: ABC;
+                    b := a.z;
+                }
+            }
+
+
+        

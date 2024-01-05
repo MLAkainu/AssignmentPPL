@@ -1,0 +1,9 @@
+ 
+            class Program {
+            
+                func @main() : void {
+                    
+                    const a : [3]float = ["a", "b", "c"];
+                }
+            }
+        

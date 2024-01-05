@@ -1,0 +1,8 @@
+
+            class Program {
+                var a : [2]int = [1, 3];
+                func @main() : void {
+                    const b : [2]int = [1, 3.5];
+                }
+            }
+        

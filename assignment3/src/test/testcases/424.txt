@@ -1,0 +1,9 @@
+
+            class A {}
+            class B {}
+            class Program {
+                func @main() : void {
+                    var d : D;
+                }
+            }
+        

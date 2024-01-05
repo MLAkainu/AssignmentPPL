@@ -1,0 +1,27 @@
+
+            class AB {
+                var a : int = 1;
+                var b : int = 3;
+                func constructor(_a, _b : int) {
+                    self.a := _a;
+                    self.b := _b;
+                }
+                func foo(_a, _b : int) : int {
+                    self.a := _a;
+                    self.b := _b;
+                    return 1;
+                }
+                func foo2() : int {
+                    return 1;
+                }
+            }
+            class Program {
+                func @main() : void {
+                    var a : AB; 
+                    var b : int = a.foo(1,2);
+                    var c : int = a.foo3();
+
+                }
+            }
+
+        

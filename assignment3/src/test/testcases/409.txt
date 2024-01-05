@@ -1,0 +1,11 @@
+
+            class A {
+                const a: int = 1;
+                var @a: int = 2;
+                const a: float = 3.0;
+            }
+            class program {
+                func main() : void {}
+            }
+        
+        

@@ -1,0 +1,9 @@
+
+        class Program{
+                func @main() : void {
+                    var x : string ;
+                    x := 1;
+                }
+            }
+
+        

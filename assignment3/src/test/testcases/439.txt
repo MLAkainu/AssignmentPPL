@@ -1,0 +1,16 @@
+
+            class A {
+                var a : int = 1;
+                var @a : int = 2;
+            }
+            class Program {
+                func @main() : void {
+                    var z : A = new A();
+                    var x : int = A.@a;
+                    var y : int = z.a;
+                    var t : int = A.foo();
+                }
+            }
+
+
+        

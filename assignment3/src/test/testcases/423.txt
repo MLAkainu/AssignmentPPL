@@ -1,0 +1,7 @@
+
+            class A {}
+            class A <- B {}
+            class D <- Program {
+                func @main() : void {}
+            }
+        

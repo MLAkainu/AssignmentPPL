@@ -1,0 +1,6 @@
+
+            class Program {
+                func a() : void {}
+                func a() : int {}
+
+            }

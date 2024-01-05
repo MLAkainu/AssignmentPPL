@@ -1,0 +1,13 @@
+
+            class A {
+                var c: int = 1;
+
+            }
+            class Program {
+                func main() : void {
+                    var x : int;
+                    var y : int;
+                    y := x.c;
+                }
+            }
+        

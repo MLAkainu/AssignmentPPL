@@ -1,0 +1,13 @@
+
+            class A {
+                var a: int = 1;
+                func fooo(a:int) : void {
+                    const a : int = 1;
+                }
+
+                func main() : void {}
+                
+            }
+
+
+        

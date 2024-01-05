@@ -1,0 +1,11 @@
+
+            class AB {
+                const a : int = 1;
+            }
+            class Program {
+                func @main() : void {
+                    var m : AB;
+                    m.a := 2;
+                }
+            }
+        

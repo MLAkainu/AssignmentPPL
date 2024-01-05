@@ -1,0 +1,23 @@
+
+            class AB {
+                var a: int = 1;
+                var x: int = 2;
+                func foo(a, x : int) : int {
+                    const c : int = 1;
+                    var b : int;
+                    return a + x + b;
+                    
+                }
+            }
+            class B {
+                func foo2() : void {    
+                }
+            }
+            class Program {
+                func @main() : void {
+                    var z : AB = new AB();
+                    var b : int = z.foo(1,2);
+                    var d : int = z.foo2();
+                }
+            }
+        

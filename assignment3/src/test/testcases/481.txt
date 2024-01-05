@@ -1,0 +1,18 @@
+
+            class Program {
+                func @main() : void {
+                    var i : int;
+                    for i := 1; i < 10; i := i + 1 {
+                        if i > 5  {
+                           break;
+                        }
+                        else {
+                            continue;
+                        }
+                        i := 3;
+
+                    }
+                    continue;
+                }
+            }
+        

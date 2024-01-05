@@ -1,0 +1,1 @@
+class a {var a:int;var c:int;var c:int;}

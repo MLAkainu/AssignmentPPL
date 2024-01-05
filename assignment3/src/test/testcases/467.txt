@@ -1,0 +1,21 @@
+
+            class A {
+                var length : float = 1.0;
+                var width : int = 2;
+
+            }
+            class B {
+                var a : A = new A();
+
+            }
+            class Program {
+            
+                func @main() : void {
+                    var a : B;
+                    a.a.length := 6;
+                    a.a.width := 7.0;
+                }
+            }
+        
+        
+        

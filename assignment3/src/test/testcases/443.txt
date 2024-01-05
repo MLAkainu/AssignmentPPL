@@ -1,0 +1,13 @@
+
+            class B {
+                func foo() : void {}
+            }
+            class Program {
+            
+                func @main() : void {
+                    var a : int = 1;
+                    var b : int ;
+                    b := a + x.foo();
+                }
+            }
+            

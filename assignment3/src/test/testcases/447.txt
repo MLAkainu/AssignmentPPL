@@ -1,0 +1,16 @@
+
+            class A {
+                func foo() : int {
+                    return 1;
+                }
+            }
+            class Program {
+                func @main() : void {
+                    var a : A;
+                    var b : int = a.foo();
+                    d := b * 2;
+                }
+            }
+                
+
+        

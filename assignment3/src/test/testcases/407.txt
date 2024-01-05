@@ -1,0 +1,8 @@
+
+            class A{}
+            class B {}
+            class A{}
+            class Program{
+                func main() : void {}
+            }
+        

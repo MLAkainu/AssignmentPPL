@@ -1,0 +1,10 @@
+
+            class A {
+                func main() : void {}
+                func main() : void {}
+            }
+            class Program {
+                func main() : void {}
+            }
+        
+        

@@ -1,0 +1,6 @@
+
+            class E <- E{}
+            class Program {
+                func @main() : void {}
+            }
+        

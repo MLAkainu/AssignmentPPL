@@ -1,0 +1,15 @@
+
+    class Program {
+        func @main():void {
+            var a,b:float=3.0,4.e-3;
+            var  d:[5]int=[5,3,6,3,1];
+            const s:string = "anv";
+            const c:int =  5;
+            if {b :=  b+1;} b>c {io.@writeInt(d[c]);} else {io.@writeInt(b);}
+            var i:int;
+            for i:= 1;i<5;i := i+1 {a := a +1;  b:=b*2; if a <=b {break;} else {continue;}}
+            io.@writeStr(s^"anv");
+            return;
+        }
+    }
+        

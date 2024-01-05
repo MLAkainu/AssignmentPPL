@@ -1,0 +1,10 @@
+
+             class A {
+                func constructor() {}
+                func constructor() {}
+
+             }
+             class Program {
+                 func @main() : void {}
+             }
+        

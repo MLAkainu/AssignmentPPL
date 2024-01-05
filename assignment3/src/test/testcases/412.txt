@@ -1,0 +1,7 @@
+
+            class Program {
+                var d : int;
+                const @d : int = 1;
+                const @d : float;
+            
+            }

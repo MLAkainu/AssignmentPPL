@@ -1,0 +1,11 @@
+
+            class Program {
+                var d : int;
+                const @a : float = 9.0;
+                func foo() : void {
+                    var a : int;
+                    
+                }
+                var @a : int;
+
+            }

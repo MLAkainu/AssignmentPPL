@@ -1,0 +1,16 @@
+
+            class A {
+                func @foo() : int {
+                    return 7;
+                }
+            }
+            class Program {
+                func @main() : void {
+                    var x : int = 1;
+                    var y : int = A.@foo();
+                    var z : int;
+                    z := x + y * t;
+                }
+            }
+            
+            

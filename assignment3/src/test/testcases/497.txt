@@ -1,0 +1,9 @@
+
+        class Program{
+                func @main() : void {
+                    const a : int = 1;
+                    a := 3;
+                }
+            }
+
+        

@@ -1,0 +1,9 @@
+
+            class Program {
+                func @main() : void {
+                    var B : int;
+                    var c : int = B.@a;
+
+                }
+            }
+        

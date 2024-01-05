@@ -1,0 +1,18 @@
+
+            class AB {
+                var a : int = 1;
+                var b : int = 2;
+                func foo(_a, _b : int) : void {
+                    self.a := _a;
+                    self.b := _b;
+                }
+            }
+            class Program {
+                func @main() : void {
+                    var z : AB;
+                    z.foo(1,2);
+                    AB.@foo();
+                }
+            }
+
+        

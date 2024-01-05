@@ -1,0 +1,9 @@
+
+            class B {
+                var b : int = 1;
+            }
+            class Program {
+                func @main() : void {
+                    x.b := 1;
+                }
+            }

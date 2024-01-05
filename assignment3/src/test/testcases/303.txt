@@ -1,0 +1,1 @@
+class main {var x, y, z: int = 1, 2, 3;}

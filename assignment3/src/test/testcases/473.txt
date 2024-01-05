@@ -1,0 +1,13 @@
+ 
+            class Program {
+            
+                func @main() : void {
+                    
+                    const y : int = 1;
+                    var z : float = 1.6;
+                    var t : bool;
+                    
+                    t := (y + z) == !(y - 1);
+                }
+            }
+        

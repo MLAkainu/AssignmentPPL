@@ -1,0 +1,22 @@
+
+            class A {
+                
+                func fooo(b:int) : void {
+                    var a: int = 1;
+                    {
+                        var a: int = 1;
+                        const c: float = 10.0;
+                        /* {
+                            var c: int = 1;
+                        } */
+                        // var c: int = 1;
+
+                    }
+                }
+
+                func main() : void {}
+                
+            }
+
+
+        

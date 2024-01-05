@@ -1,0 +1,12 @@
+
+            class AB {
+                const @a: int = 1;
+                var x : int = 0;
+            }
+            class Program {
+                func @main() : void {
+                    var y : int = AB.@a;
+                    var z : int = AB.@x;
+                }
+            }
+        

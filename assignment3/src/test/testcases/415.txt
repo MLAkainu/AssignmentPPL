@@ -1,0 +1,6 @@
+
+            class Program {
+                func @a(c: int ) : void {}
+                func @a(e,f,g:float, k:int) : int {}
+                func main() : void {}
+            }

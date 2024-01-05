@@ -1,0 +1,11 @@
+
+            class Program {
+                func @main() : void {
+                    var i : int;
+                    var a : float;
+                    for i := 6.9; i < 10; i := i + 1 {
+                        a := i;
+                    }
+                }
+            }
+        

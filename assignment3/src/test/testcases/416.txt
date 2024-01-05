@@ -1,0 +1,14 @@
+
+            class A {
+                func constructor() {
+                    var a : int;
+                }
+                func main() : void {}
+                func constructor() {
+                    var b : int;
+                }
+
+            }
+
+
+        

@@ -1,0 +1,17 @@
+
+            class A{
+                const a: int = 1;
+            }
+            class A <- B {
+                var b : int;
+            }
+            class Program {
+                func @main() : void {
+                    var x : B;
+                    const c: float = x.a;
+                }
+            }
+            
+            
+            
+            

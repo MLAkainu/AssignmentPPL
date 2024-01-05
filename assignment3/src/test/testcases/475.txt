@@ -1,0 +1,10 @@
+
+            
+            class Program {
+                func @main() : void {
+                    var x : int = 2;
+                    var y : int;
+                    y := x % 2.5;
+                }
+            }
+        

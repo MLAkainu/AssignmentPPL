@@ -1,0 +1,10 @@
+
+            class Program {
+                var x: int = 2;
+                func @main() : void {
+                    var a: [3]int = [1,2,3];
+                    const y : int = self.x + 4;
+                
+                }
+            }
+            

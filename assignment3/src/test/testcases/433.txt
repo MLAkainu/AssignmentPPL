@@ -1,0 +1,13 @@
+
+            class AB {
+                var a : int = 1;
+                var x : float;
+            }
+            class Program {
+                func @main() : void {
+                    var z : AB;
+                    z.a := 3;
+                    z.m := 3;
+                }
+            }
+        

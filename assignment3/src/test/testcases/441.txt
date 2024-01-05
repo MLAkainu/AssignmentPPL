@@ -1,0 +1,9 @@
+
+            class B {
+                func foo() : void {}
+            }
+            class Program {
+                func @main() : void {
+                    a.foo();
+                }
+            }

@@ -1,0 +1,6 @@
+
+             class A {
+                func foo(a: int, a, b : float) : void {}
+
+             }
+        
