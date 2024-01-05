@@ -57,7 +57,7 @@ class StaticChecker(BaseVisitor):
 
     ]
 
-    
+
     def __init__(self, ast):
         self.class_envi = []
         self.ast = ast
@@ -438,8 +438,11 @@ class StaticChecker(BaseVisitor):
         # loop:Block
         
         (symbol_stack, scope_stack, inLoop, inner_envi, outer_envi, const_decl_flag) = c
+
         self.visit(ast.initStmt, (symbol_stack, inLoop, inner_envi, outer_envi, const_decl_flag))
+
         expr_ = self.visit(ast.expr, (symbol_stack, inner_envi, outer_envi, const_decl_flag))
+
         if type(expr_[2]) is not BoolType:
             raise TypeMismatchInStatement(ast)
         
@@ -467,6 +470,7 @@ class StaticChecker(BaseVisitor):
         (symbol_stack, inLoop, inner_envi, outer_envi, const_decl_flag) = c
         current_class = list(outer_envi)[-1]
         current_method = list(outer_envi[current_class])[-1]
+        
         if current_method == "constructor":
             if ast.expr is not None:
                 raise TypeMismatchInStatement(ast)
