@@ -2,7 +2,7 @@
 This is PPL assignment HK231.\
 Assignment 1 - Lexer: 99/100\
 Assignment 1 - Parser: 100/100
-* Build Recognizer for CSlang languge (based on CSlang's specification).
+* Build Recognizer for CSlang language (based on CSlang's specification).
 
 Assignment 2: 94/100
 
