@@ -11,3 +11,5 @@ Assignment 2: 94/100
 Assignment 3: - Phase 1: 29/30\
 Assignment 3: - Phase 2: 91/150
 * Build StaticCheck for CSlang language.
+* Happy new yearr
+
